@@ -1,0 +1,4 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûý8’»ÌÈ•.
+‡
+java:S4165	"eRemove this useless assignment; "product" already holds the assigned value along all execution paths.(Ç§è’üÿÿÿÿ8ùê’È•.
