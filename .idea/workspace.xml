@@ -19,53 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1cce943-2af3-4a66-a5ec-83359d7b23a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/04aab518d1fbbc37a6531093d219cc459f3e3b4b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/07d3fcd7146aac019a59bf5ab6a126a4ce74bf11" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/07d78913292a4f6df8065528d1d0a96107d3c662" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0e3b82a80b5b5f72e8668ff30ef41c036434244b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/111fa8407c510d0613a25181ed068b4e36306ca0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/2834c0a45be097736769bfae594f61383fdefe11" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2ab8a3957b029124e71a52798d7fc04d54b3a18c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c59c8c3a311c2b04e1e628298abbb91c2037b33" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38b53a42d9cbd9323b3576a2d40c4ba66766fc4a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a6b8c9d6becfba3c0106410c74cc018bc95517b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/45f3720df784eb1f58a094f82fa839fb1e04012a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/49a65012b405a5e53e7f1d50edbf4c518ffbc78b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/55679ea182718cd1af9957216b27ffac12aeb993" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5af801a22a6fdb45d92d2fc8b3c9696d523872c3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b12d9b439649d3bc683eda73b34e299a4cf924a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6f668b2858253ec2f282606737d3a552060338c0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71bd0f2d20184fbcc65c1e08783c24994d52606e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/786c06d6b6feb450032585416286722686970fbc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79254c9f8e19846fc6891dc2aa5d9aad54221229" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a65bc65f33765e212e9dad751b5a67cd8742ce2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90dd10fa6ceee1651518007104c41ff19bab0743" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/91eb4c098bce682a1f0a4be7bfa40177c1b4e9e7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9df59f7f9520b55dd5374c0909f4736c53a22543" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5fb4c2e5b34f88ec505ee89e8748bae12ac1f71" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c6d7fa24c3b45b0ee2ffe2e21420314f9050c93c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6cda854cbc0283f42535ac7220368c36b4523fa" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/dataPackage/task1/data/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/dataPackage/task1/logic/CarShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/task2/data/PointAplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/task2/logic/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/task2/logic/PointControler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/task3/Charger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/task3/PhoneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/task3/Telophone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/methodOverload/task1/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/methodOverload/task1/CalcTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/methodOverload/task2/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/methodOverload/task2/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/javaStartCwiczenia.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/methods/task3/Offer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/methods/task3/Offer.class" afterDir="false" />
-    </list>
+    <list default="true" id="d1cce943-2af3-4a66-a5ec-83359d7b23a8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -215,7 +169,7 @@
       <workItem from="1586347467685" duration="29000" />
       <workItem from="1586347558904" duration="152000" />
       <workItem from="1586347723869" duration="284000" />
-      <workItem from="1586348089283" duration="1861000" />
+      <workItem from="1586348089283" duration="2178000" />
     </task>
     <servers />
   </component>
@@ -281,22 +235,22 @@
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
     <state x="738" y="273" width="424" height="513" key="FileChooserDialogImpl/0.27.1920.1008@0.27.1920.1008" timestamp="1586348116069" />
-    <state width="1069" height="376" key="GridCell.Tab.0.bottom" timestamp="1586350119517">
+    <state width="1069" height="376" key="GridCell.Tab.0.bottom" timestamp="1586350491365">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1069" height="376" key="GridCell.Tab.0.bottom/0.27.1920.1008@0.27.1920.1008" timestamp="1586350119517" />
-    <state width="1069" height="376" key="GridCell.Tab.0.center" timestamp="1586350119517">
+    <state width="1069" height="376" key="GridCell.Tab.0.bottom/0.27.1920.1008@0.27.1920.1008" timestamp="1586350491365" />
+    <state width="1069" height="376" key="GridCell.Tab.0.center" timestamp="1586350491365">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1069" height="376" key="GridCell.Tab.0.center/0.27.1920.1008@0.27.1920.1008" timestamp="1586350119517" />
-    <state width="1069" height="376" key="GridCell.Tab.0.left" timestamp="1586350119516">
+    <state width="1069" height="376" key="GridCell.Tab.0.center/0.27.1920.1008@0.27.1920.1008" timestamp="1586350491365" />
+    <state width="1069" height="376" key="GridCell.Tab.0.left" timestamp="1586350491364">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1069" height="376" key="GridCell.Tab.0.left/0.27.1920.1008@0.27.1920.1008" timestamp="1586350119516" />
-    <state width="1069" height="376" key="GridCell.Tab.0.right" timestamp="1586350119517">
+    <state width="1069" height="376" key="GridCell.Tab.0.left/0.27.1920.1008@0.27.1920.1008" timestamp="1586350491364" />
+    <state width="1069" height="376" key="GridCell.Tab.0.right" timestamp="1586350491365">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1069" height="376" key="GridCell.Tab.0.right/0.27.1920.1008@0.27.1920.1008" timestamp="1586350119517" />
+    <state width="1069" height="376" key="GridCell.Tab.0.right/0.27.1920.1008@0.27.1920.1008" timestamp="1586350491365" />
     <state width="1874" height="323" key="GridCell.Tab.1.bottom" timestamp="1586347449017">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
@@ -317,10 +271,10 @@
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
     <state x="545" y="229" width="819" height="602" key="NewModule_or_Project.wizard/0.27.1920.1008@0.27.1920.1008" timestamp="1585850656249" />
-    <state x="449" y="165" width="1024" height="845" key="SettingsEditor" timestamp="1586347898276">
+    <state x="449" y="165" width="1024" height="845" key="SettingsEditor" timestamp="1586350549385">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state x="449" y="165" width="1024" height="845" key="SettingsEditor/0.27.1920.1008@0.27.1920.1008" timestamp="1586347898276" />
+    <state x="449" y="165" width="1024" height="845" key="SettingsEditor/0.27.1920.1008@0.27.1920.1008" timestamp="1586350549385" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1586257672013">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
@@ -329,6 +283,10 @@
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
     <state x="308" y="158" width="500" height="743" key="refactoring.ChangeSignatureDialog/0.27.1920.1008@0.27.1920.1008" timestamp="1586345067634" />
+    <state x="624" y="242" key="run.anything.popup" timestamp="1586350526242">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state x="624" y="242" key="run.anything.popup/0.27.1920.1008@0.27.1920.1008" timestamp="1586350526242" />
     <state x="623" y="246" width="672" height="678" key="search.everywhere.popup" timestamp="1586345812922">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
