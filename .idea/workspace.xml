@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1cce943-2af3-4a66-a5ec-83359d7b23a8" name="Default Changelist" comment="" />
+    <list default="true" id="d1cce943-2af3-4a66-a5ec-83359d7b23a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/methods/task1/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/methods/task1/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/methods/task2/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/methods/task2/MetricCalculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/methods/task2/TimeCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/methods/task3/Offer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/methods/task3/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/methods/task3/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/aggregation/task2/AuctionSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/aggregation/task2/AuctionSystem.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +31,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Zzn2Ae9ibvqf6CxbSoqEOvs2nN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="foldersAlwaysOnTop" value="false" />
@@ -41,13 +56,26 @@
       <recent name="org.example.aggregation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AuctionSystem">
+  <component name="RunManager" selected="Application.Shop">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.aggregation.App" />
       <module name="javaStartCwiczenia" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.aggregation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.methods.task2.App" />
+      <module name="javaStartCwiczenia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.methods.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,55 +96,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.methods.task1.Calculator" />
       <module name="javaStartCwiczenia" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.methods.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+    <configuration name="Shop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.methods.task3.Shop" />
       <module name="javaStartCwiczenia" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.methods.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Shop" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.AuctionSystem" />
         <item itemvalue="Application.App" />
       </list>
@@ -136,7 +146,8 @@
       <workItem from="1586026578395" duration="4000" />
       <workItem from="1586028628222" duration="2760000" />
       <workItem from="1586182826425" duration="3119000" />
-      <workItem from="1586244957838" duration="14446000" />
+      <workItem from="1586244957838" duration="15210000" />
+      <workItem from="1586329856394" duration="7892000" />
     </task>
     <servers />
   </component>
@@ -144,10 +155,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="768" y="249" width="548" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1586255775660">
+    <state x="768" y="249" width="548" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1586336864103">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state x="768" y="249" width="548" height="562" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1008@0.27.1920.1008" timestamp="1586255775660" />
+    <state x="768" y="249" width="548" height="562" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1008@0.27.1920.1008" timestamp="1586336864103" />
     <state x="693" y="308" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1586186111726">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
@@ -164,22 +175,22 @@
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
     <state x="138" y="27" width="601" height="1008" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1920.1008@0.27.1920.1008" timestamp="1586256961147" />
-    <state width="1874" height="380" key="GridCell.Tab.0.bottom" timestamp="1586259554034">
+    <state width="1023" height="377" key="GridCell.Tab.0.bottom" timestamp="1586337800504">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="380" key="GridCell.Tab.0.bottom/0.27.1920.1008@0.27.1920.1008" timestamp="1586259554034" />
-    <state width="1874" height="380" key="GridCell.Tab.0.center" timestamp="1586259554033">
+    <state width="1023" height="377" key="GridCell.Tab.0.bottom/0.27.1920.1008@0.27.1920.1008" timestamp="1586337800504" />
+    <state width="1023" height="377" key="GridCell.Tab.0.center" timestamp="1586337800503">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="380" key="GridCell.Tab.0.center/0.27.1920.1008@0.27.1920.1008" timestamp="1586259554033" />
-    <state width="1874" height="380" key="GridCell.Tab.0.left" timestamp="1586259554033">
+    <state width="1023" height="377" key="GridCell.Tab.0.center/0.27.1920.1008@0.27.1920.1008" timestamp="1586337800503" />
+    <state width="1023" height="377" key="GridCell.Tab.0.left" timestamp="1586337800503">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="380" key="GridCell.Tab.0.left/0.27.1920.1008@0.27.1920.1008" timestamp="1586259554033" />
-    <state width="1874" height="380" key="GridCell.Tab.0.right" timestamp="1586259554034">
+    <state width="1023" height="377" key="GridCell.Tab.0.left/0.27.1920.1008@0.27.1920.1008" timestamp="1586337800503" />
+    <state width="1023" height="377" key="GridCell.Tab.0.right" timestamp="1586337800504">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="380" key="GridCell.Tab.0.right/0.27.1920.1008@0.27.1920.1008" timestamp="1586259554034" />
+    <state width="1023" height="377" key="GridCell.Tab.0.right/0.27.1920.1008@0.27.1920.1008" timestamp="1586337800504" />
     <state width="1874" height="324" key="GridCell.Tab.1.bottom" timestamp="1586259221384">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
@@ -204,10 +215,10 @@
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.27.1920.1008@0.27.1920.1008" timestamp="1586257672013" />
-    <state x="623" y="246" width="672" height="678" key="search.everywhere.popup" timestamp="1586029937799">
+    <state x="623" y="246" width="672" height="678" key="search.everywhere.popup" timestamp="1586332436345">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state x="623" y="246" width="672" height="678" key="search.everywhere.popup/0.27.1920.1008@0.27.1920.1008" timestamp="1586029937799" />
+    <state x="623" y="246" width="672" height="678" key="search.everywhere.popup/0.27.1920.1008@0.27.1920.1008" timestamp="1586332436345" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
