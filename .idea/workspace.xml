@@ -19,7 +19,58 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1cce943-2af3-4a66-a5ec-83359d7b23a8" name="Default Changelist" comment="" />
+    <list default="true" id="d1cce943-2af3-4a66-a5ec-83359d7b23a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/dataPackage/task4/RandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task3cinema/CinemaSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task3cinema/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task3cinema/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task3cinema/Ticet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task3cinema/TicetSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/encapsulation/DiscountApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/encapsulation/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/encapsulation/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/encapsulation/PrintService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/table/task1createTable/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/table/task1createTable/ArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/table/task2elevator/Elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/table/task2elevator/ElevatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/table/task2elevator/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/04aab518d1fbbc37a6531093d219cc459f3e3b4b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/07d3fcd7146aac019a59bf5ab6a126a4ce74bf11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2ab8a3957b029124e71a52798d7fc04d54b3a18c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/task2/data/PointAplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/dataPackage/task2/data/PointAplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/task2/logic/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/dataPackage/task2/logic/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/task2/logic/PointControler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/dataPackage/task2/logic/PointControler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/task3/Charger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/dataPackage/task3/Charger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/task3/PhoneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/dataPackage/task3/PhoneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/task3/Telophone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/dataPackage/task3/Telophone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task1/Adress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task1bank/Adress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task1bank/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task1/BankAcount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task1bank/BankAcount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task1/Credit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task1bank/Credit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task1bank/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task2/Adress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task2komis/Adress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task2/Auction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task2komis/Auction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task2/AuctionSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task2komis/AuctionSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task2/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task2komis/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/accessSpecifiers/task2/data/PointAplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/accessSpecifiers/task2/logic/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/accessSpecifiers/task2/logic/PointControler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/accessSpecifiers/task3/Charger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/accessSpecifiers/task3/PhoneTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/accessSpecifiers/task3/Telophone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/aggregation/task1/Adress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/aggregation/task1/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/aggregation/task1/BankAcount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/aggregation/task1/Credit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/aggregation/task1/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/aggregation/task2/Adress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/aggregation/task2/Auction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/aggregation/task2/AuctionSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/aggregation/task2/User.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,8 +105,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
@@ -64,13 +116,13 @@
       <recent name="org.example.aggregation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PhoneTest">
-    <configuration name="CalcTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.methodOverload.task1.CalcTest" />
-      <module name="javaStartCwiczenia" />
+  <component name="RunManager" selected="Application.ElevatorService">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.table.task1createTable.App" />
+      <module name="untitled1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.methodOverload.task1.*" />
+          <option name="PATTERN" value="org.example.table.task1createTable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +130,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.accessSpecifiers.dataPackage.task1.logic.CarShop" />
-      <module name="javaStartCwiczenia" />
+    <configuration name="DiscountApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.encapsulation.DiscountApp" />
+      <module name="untitled1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.accessSpecifiers.dataPackage.task1.data.*" />
+          <option name="PATTERN" value="org.example.encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElevatorService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.table.task2elevator.ElevatorService" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.table.task2elevator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,11 +157,11 @@
       </method>
     </configuration>
     <configuration name="PhoneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.accessSpecifiers.task3.PhoneTest" />
+      <option name="MAIN_CLASS_NAME" value="org.example.accessSpecifiers.dataPackage.task3.PhoneTest" />
       <module name="untitled1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.accessSpecifiers.task3.*" />
+          <option name="PATTERN" value="org.example.accessSpecifiers.dataPackage.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,28 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PointAplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$" />
-      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
-      <option name="MAIN_CLASS_NAME" value="org.example.accessSpecifiers.task2.data.PointAplication" />
+    <configuration name="RandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.accessSpecifiers.dataPackage.task4.RandomNumber" />
       <module name="untitled1" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.accessSpecifiers.task2.data.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.methodOverload.task2.Test" />
-      <module name="javaStartCwiczenia" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.methodOverload.task2.*" />
+          <option name="PATTERN" value="org.example.accessSpecifiers.dataPackage.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,19 +183,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CalcTest" />
-      <item itemvalue="Application.CarShop" />
-      <item itemvalue="Application.PointAplication" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.PhoneTest" />
+      <item itemvalue="Application.RandomNumber" />
+      <item itemvalue="Application.DiscountApp" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.ElevatorService" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ElevatorService" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.DiscountApp" />
+        <item itemvalue="Application.RandomNumber" />
         <item itemvalue="Application.PhoneTest" />
-        <item itemvalue="Application.PointAplication" />
-        <item itemvalue="Application.CarShop" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.CalcTest" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +218,9 @@
       <workItem from="1586347467685" duration="29000" />
       <workItem from="1586347558904" duration="152000" />
       <workItem from="1586347723869" duration="284000" />
-      <workItem from="1586348089283" duration="2178000" />
+      <workItem from="1586348089283" duration="2984000" />
+      <workItem from="1586354504596" duration="10540000" />
+      <workItem from="1586514960860" duration="10123000" />
     </task>
     <servers />
   </component>
@@ -207,18 +258,18 @@
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
     <state x="811" y="237" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog/0.27.1920.1008@0.27.1920.1008" timestamp="1586347950248" />
-    <state x="768" y="249" width="548" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1586349293841">
+    <state x="768" y="249" width="553" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1586524307947">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state x="768" y="249" width="548" height="562" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1008@0.27.1920.1008" timestamp="1586349293841" />
+    <state x="768" y="249" width="553" height="562" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1008@0.27.1920.1008" timestamp="1586524307947" />
     <state x="693" y="308" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1586186111726">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
     <state x="693" y="308" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog/0.27.1920.1008@0.27.1920.1008" timestamp="1586186111726" />
-    <state x="473" y="457" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586347408000">
+    <state x="473" y="457" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586358274262">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state x="473" y="457" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.27.1920.1008@0.27.1920.1008" timestamp="1586347408000" />
+    <state x="473" y="457" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.27.1920.1008@0.27.1920.1008" timestamp="1586358274262" />
     <state x="713" y="389" width="494" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586186182080">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
@@ -227,76 +278,84 @@
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
     <state x="713" y="401" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.27.1920.1008@0.27.1920.1008" timestamp="1586186075199" />
-    <state x="138" y="27" width="601" height="1008" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586256961147">
+    <state x="138" y="27" width="601" height="1008" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586518945024">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state x="138" y="27" width="601" height="1008" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1920.1008@0.27.1920.1008" timestamp="1586256961147" />
+    <state x="138" y="27" width="601" height="1008" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1920.1008@0.27.1920.1008" timestamp="1586518945024" />
     <state x="738" y="273" width="424" height="513" key="FileChooserDialogImpl" timestamp="1586348116069">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
     <state x="738" y="273" width="424" height="513" key="FileChooserDialogImpl/0.27.1920.1008@0.27.1920.1008" timestamp="1586348116069" />
-    <state width="1069" height="376" key="GridCell.Tab.0.bottom" timestamp="1586350491365">
+    <state width="1874" height="375" key="GridCell.Tab.0.bottom" timestamp="1586523185162">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1069" height="376" key="GridCell.Tab.0.bottom/0.27.1920.1008@0.27.1920.1008" timestamp="1586350491365" />
-    <state width="1069" height="376" key="GridCell.Tab.0.center" timestamp="1586350491365">
+    <state width="1874" height="375" key="GridCell.Tab.0.bottom/0.27.1920.1008@0.27.1920.1008" timestamp="1586523185162" />
+    <state width="1874" height="375" key="GridCell.Tab.0.center" timestamp="1586523185162">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1069" height="376" key="GridCell.Tab.0.center/0.27.1920.1008@0.27.1920.1008" timestamp="1586350491365" />
-    <state width="1069" height="376" key="GridCell.Tab.0.left" timestamp="1586350491364">
+    <state width="1874" height="375" key="GridCell.Tab.0.center/0.27.1920.1008@0.27.1920.1008" timestamp="1586523185162" />
+    <state width="1874" height="375" key="GridCell.Tab.0.left" timestamp="1586523185162">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1069" height="376" key="GridCell.Tab.0.left/0.27.1920.1008@0.27.1920.1008" timestamp="1586350491364" />
-    <state width="1069" height="376" key="GridCell.Tab.0.right" timestamp="1586350491365">
+    <state width="1874" height="375" key="GridCell.Tab.0.left/0.27.1920.1008@0.27.1920.1008" timestamp="1586523185162" />
+    <state width="1874" height="375" key="GridCell.Tab.0.right" timestamp="1586523185162">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1069" height="376" key="GridCell.Tab.0.right/0.27.1920.1008@0.27.1920.1008" timestamp="1586350491365" />
-    <state width="1874" height="323" key="GridCell.Tab.1.bottom" timestamp="1586347449017">
+    <state width="1874" height="375" key="GridCell.Tab.0.right/0.27.1920.1008@0.27.1920.1008" timestamp="1586523185162" />
+    <state width="1874" height="323" key="GridCell.Tab.1.bottom" timestamp="1586364783932">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="323" key="GridCell.Tab.1.bottom/0.27.1920.1008@0.27.1920.1008" timestamp="1586347449017" />
-    <state width="1874" height="323" key="GridCell.Tab.1.center" timestamp="1586347449016">
+    <state width="1874" height="323" key="GridCell.Tab.1.bottom/0.27.1920.1008@0.27.1920.1008" timestamp="1586364783932" />
+    <state width="1874" height="323" key="GridCell.Tab.1.center" timestamp="1586364783931">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="323" key="GridCell.Tab.1.center/0.27.1920.1008@0.27.1920.1008" timestamp="1586347449016" />
-    <state width="1874" height="323" key="GridCell.Tab.1.left" timestamp="1586347449016">
+    <state width="1874" height="323" key="GridCell.Tab.1.center/0.27.1920.1008@0.27.1920.1008" timestamp="1586364783931" />
+    <state width="1874" height="323" key="GridCell.Tab.1.left" timestamp="1586364783931">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="323" key="GridCell.Tab.1.left/0.27.1920.1008@0.27.1920.1008" timestamp="1586347449016" />
-    <state width="1874" height="323" key="GridCell.Tab.1.right" timestamp="1586347449016">
+    <state width="1874" height="323" key="GridCell.Tab.1.left/0.27.1920.1008@0.27.1920.1008" timestamp="1586364783931" />
+    <state width="1874" height="323" key="GridCell.Tab.1.right" timestamp="1586364783931">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="323" key="GridCell.Tab.1.right/0.27.1920.1008@0.27.1920.1008" timestamp="1586347449016" />
+    <state width="1874" height="323" key="GridCell.Tab.1.right/0.27.1920.1008@0.27.1920.1008" timestamp="1586364783931" />
     <state x="545" y="229" width="819" height="602" key="NewModule_or_Project.wizard" timestamp="1585850656249">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
     <state x="545" y="229" width="819" height="602" key="NewModule_or_Project.wizard/0.27.1920.1008@0.27.1920.1008" timestamp="1585850656249" />
-    <state x="449" y="165" width="1024" height="845" key="SettingsEditor" timestamp="1586350549385">
+    <state x="365" y="466" key="ReplaceDuplicatesPrompt" timestamp="1586356182488">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state x="449" y="165" width="1024" height="845" key="SettingsEditor/0.27.1920.1008@0.27.1920.1008" timestamp="1586350549385" />
+    <state x="365" y="466" key="ReplaceDuplicatesPrompt/0.27.1920.1008@0.27.1920.1008" timestamp="1586356182488" />
+    <state x="449" y="165" width="1024" height="845" key="SettingsEditor" timestamp="1586350566376">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state x="449" y="165" width="1024" height="845" key="SettingsEditor/0.27.1920.1008@0.27.1920.1008" timestamp="1586350566376" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1586257672013">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.27.1920.1008@0.27.1920.1008" timestamp="1586257672013" />
+    <state x="374" y="404" width="568" height="501" key="extract.method.dialog" timestamp="1586522635012">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state x="374" y="404" width="568" height="501" key="extract.method.dialog/0.27.1920.1008@0.27.1920.1008" timestamp="1586522635012" />
     <state x="308" y="158" width="500" height="743" key="refactoring.ChangeSignatureDialog" timestamp="1586345067634">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
     <state x="308" y="158" width="500" height="743" key="refactoring.ChangeSignatureDialog/0.27.1920.1008@0.27.1920.1008" timestamp="1586345067634" />
-    <state x="624" y="242" key="run.anything.popup" timestamp="1586350526242">
+    <state x="624" y="242" key="run.anything.popup" timestamp="1586355744127">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state x="624" y="242" key="run.anything.popup/0.27.1920.1008@0.27.1920.1008" timestamp="1586350526242" />
-    <state x="623" y="246" width="672" height="678" key="search.everywhere.popup" timestamp="1586345812922">
+    <state x="624" y="242" key="run.anything.popup/0.27.1920.1008@0.27.1920.1008" timestamp="1586355744127" />
+    <state x="623" y="246" width="672" height="678" key="search.everywhere.popup" timestamp="1586355652823">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state x="623" y="246" width="672" height="678" key="search.everywhere.popup/0.27.1920.1008@0.27.1920.1008" timestamp="1586345812922" />
+    <state x="623" y="246" width="672" height="678" key="search.everywhere.popup/0.27.1920.1008@0.27.1920.1008" timestamp="1586355652823" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/aggregation/task1/App.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/aggregation/task1bank/App.java</url>
           <line>54</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>

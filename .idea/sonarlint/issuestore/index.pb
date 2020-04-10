@@ -42,12 +42,6 @@ h
 b
 2src/main/java/org/example/methods/task3/Offer.java,3/8/38b53a42d9cbd9323b3576a2d40c4ba66766fc4a
 z
-Jsrc/main/java/org/example/accessSpecifiers/task2/data/PointAplication.java,2/a/2ab8a3957b029124e71a52798d7fc04d54b3a18c
-q
-Asrc/main/java/org/example/accessSpecifiers/task2/logic/Point.java,0/4/04aab518d1fbbc37a6531093d219cc459f3e3b4b
-z
-Jsrc/main/java/org/example/accessSpecifiers/task2/logic/PointControler.java,0/7/07d3fcd7146aac019a59bf5ab6a126a4ce74bf11
-z
 Jsrc/main/java/org/example/accessSpecifiers/dataPackage/task1/data/Car.java,9/1/91eb4c098bce682a1f0a4be7bfa40177c1b4e9e7
 
 Osrc/main/java/org/example/accessSpecifiers/dataPackage/task1/logic/CarShop.java,0/e/0e3b82a80b5b5f72e8668ff30ef41c036434244b
