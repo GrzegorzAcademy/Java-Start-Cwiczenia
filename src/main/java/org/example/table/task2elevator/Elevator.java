@@ -5,15 +5,15 @@ public class Elevator {
     private Person[] people = new Person[4];
     private int peopleNumber = 0;
     private final int maxWeight = 400;
+    private int maxPeople = 4;
 
     void add(Person person) {
-        if (peopleNumber < 4) {
+        if (peopleNumber < maxPeople) {
             people[peopleNumber] = person;
             peopleNumber++;
-        } else {
-            System.out.println("w windzie nie ma miejsca");
+        } else
+            System.out.println("ilośc osób w windzie przekracza maksymalną ");
         }
-    }
 
     private boolean weightsCorrects() {
         return getTotelWeight() <= maxWeight;
@@ -47,6 +47,7 @@ public class Elevator {
         people[1] = null;
         people[2] = null;
         people[3] = null;
+        peopleNumber = 0;
         System.out.println("Winda pusta");
     }
 }

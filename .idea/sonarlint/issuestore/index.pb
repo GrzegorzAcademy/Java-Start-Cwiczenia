@@ -1,22 +1,4 @@
 
-g
-7src/main/java/org/example/aggregation/task1/Person.java,1/1/111fa8407c510d0613a25181ed068b4e36306ca0
-n
->src/main/java/org/example/aggregation/task2/AuctionSystem.java,9/0/90dd10fa6ceee1651518007104c41ff19bab0743
-h
-8src/main/java/org/example/aggregation/task2/Auction.java,6/f/6f668b2858253ec2f282606737d3a552060338c0
-g
-7src/main/java/org/example/aggregation/task2/Adress.java,6/b/6b12d9b439649d3bc683eda73b34e299a4cf924a
-e
-5src/main/java/org/example/aggregation/task2/User.java,3/a/3a6b8c9d6becfba3c0106410c74cc018bc95517b
-g
-7src/main/java/org/example/aggregation/task1/Credit.java,8/a/8a65bc65f33765e212e9dad751b5a67cd8742ce2
-k
-;src/main/java/org/example/aggregation/task1/BankAcount.java,a/5/a5fb4c2e5b34f88ec505ee89e8748bae12ac1f71
-g
-7src/main/java/org/example/aggregation/task1/Adress.java,9/d/9df59f7f9520b55dd5374c0909f4736c53a22543
-d
-4src/main/java/org/example/aggregation/task1/App.java,5/5/55679ea182718cd1af9957216b27ffac12aeb993
 f
 6src/main/java/org/example/methods/task1/Calculate.java,c/6/c6d7fa24c3b45b0ee2ffe2e21420314f9050c93c
 g

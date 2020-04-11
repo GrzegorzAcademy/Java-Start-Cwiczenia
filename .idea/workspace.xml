@@ -20,56 +20,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1cce943-2af3-4a66-a5ec-83359d7b23a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/dataPackage/task4/RandomNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task3cinema/CinemaSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task3cinema/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task3cinema/Move.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task3cinema/Ticet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task3cinema/TicetSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/encapsulation/DiscountApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/encapsulation/DiscountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/encapsulation/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/encapsulation/PrintService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/table/task1createTable/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/table/task1createTable/ArrayUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/table/task2elevator/Elevator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/table/task2elevator/ElevatorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/table/task2elevator/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/04aab518d1fbbc37a6531093d219cc459f3e3b4b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/07d3fcd7146aac019a59bf5ab6a126a4ce74bf11" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2ab8a3957b029124e71a52798d7fc04d54b3a18c" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataImput/task1calculator/CalcService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataImput/task1calculator/CalculateSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataImput/task1calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataImput/taskCoin/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/loops/hospital/Hospital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/loops/hospital/HospitalApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/loops/hospital/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/loops/randomLopps/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/loops/task/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/table/task2elevator/task3twoDimensionalArray/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/111fa8407c510d0613a25181ed068b4e36306ca0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a6b8c9d6becfba3c0106410c74cc018bc95517b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/55679ea182718cd1af9957216b27ffac12aeb993" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b12d9b439649d3bc683eda73b34e299a4cf924a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6f668b2858253ec2f282606737d3a552060338c0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a65bc65f33765e212e9dad751b5a67cd8742ce2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90dd10fa6ceee1651518007104c41ff19bab0743" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9df59f7f9520b55dd5374c0909f4736c53a22543" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5fb4c2e5b34f88ec505ee89e8748bae12ac1f71" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/task2/data/PointAplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/dataPackage/task2/data/PointAplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/task2/logic/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/dataPackage/task2/logic/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/task2/logic/PointControler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/dataPackage/task2/logic/PointControler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/task3/Charger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/dataPackage/task3/Charger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/task3/PhoneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/dataPackage/task3/PhoneTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/task3/Telophone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/accessSpecifiers/dataPackage/task3/Telophone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task1/Adress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task1bank/Adress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task1bank/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task1/BankAcount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task1bank/BankAcount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task1/Credit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task1bank/Credit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task1bank/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task2/Adress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task2komis/Adress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task2/Auction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task2komis/Auction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task2/AuctionSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task2komis/AuctionSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task2/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/aggregation/task2komis/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/accessSpecifiers/task2/data/PointAplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/accessSpecifiers/task2/logic/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/accessSpecifiers/task2/logic/PointControler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/accessSpecifiers/task3/Charger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/accessSpecifiers/task3/PhoneTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/accessSpecifiers/task3/Telophone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/aggregation/task1/Adress.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/aggregation/task1/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/aggregation/task1/BankAcount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/aggregation/task1/Credit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/aggregation/task1/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/aggregation/task2/Adress.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/aggregation/task2/Auction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/aggregation/task2/AuctionSystem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/aggregation/task2/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/table/task2elevator/Elevator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/table/task2elevator/Elevator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/table/task2elevator/ElevatorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/table/task2elevator/ElevatorService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,13 +89,39 @@
       <recent name="org.example.aggregation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ElevatorService">
+  <component name="RunManager" selected="Application.HospitalApp">
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dataImput.taskCoin.App" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.dataImput.taskCoin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.loops.task.App" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.loops.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.table.task1createTable.App" />
+      <option name="MAIN_CLASS_NAME" value="org.example.loops.randomLopps.App" />
       <module name="untitled1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.table.task1createTable.*" />
+          <option name="PATTERN" value="org.example.loops.randomLopps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiscountApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.encapsulation.DiscountApp" />
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dataImput.task1calculator.Calculator" />
       <module name="untitled1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.encapsulation.*" />
+          <option name="PATTERN" value="org.example.dataImput.task1calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,38 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ElevatorService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.table.task2elevator.ElevatorService" />
+    <configuration name="HospitalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.loops.hospital.HospitalApp" />
       <module name="untitled1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.table.task2elevator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PhoneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.accessSpecifiers.dataPackage.task3.PhoneTest" />
-      <module name="untitled1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.accessSpecifiers.dataPackage.task3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.accessSpecifiers.dataPackage.task4.RandomNumber" />
-      <module name="untitled1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.accessSpecifiers.dataPackage.task4.*" />
+          <option name="PATTERN" value="org.example.loops.hospital.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,19 +156,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PhoneTest" />
-      <item itemvalue="Application.RandomNumber" />
-      <item itemvalue="Application.DiscountApp" />
+      <item itemvalue="Application.Calculator" />
+      <item itemvalue="Application.App (2)" />
+      <item itemvalue="Application.App (3)" />
       <item itemvalue="Application.App" />
-      <item itemvalue="Application.ElevatorService" />
+      <item itemvalue="Application.HospitalApp" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ElevatorService" />
+        <item itemvalue="Application.HospitalApp" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Application.DiscountApp" />
-        <item itemvalue="Application.RandomNumber" />
-        <item itemvalue="Application.PhoneTest" />
+        <item itemvalue="Application.App (2)" />
+        <item itemvalue="Application.App (3)" />
+        <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +193,8 @@
       <workItem from="1586347723869" duration="284000" />
       <workItem from="1586348089283" duration="2984000" />
       <workItem from="1586354504596" duration="10540000" />
-      <workItem from="1586514960860" duration="10123000" />
+      <workItem from="1586514960860" duration="19585000" />
+      <workItem from="1586591368830" duration="11590000" />
     </task>
     <servers />
   </component>
@@ -258,10 +232,10 @@
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
     <state x="811" y="237" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog/0.27.1920.1008@0.27.1920.1008" timestamp="1586347950248" />
-    <state x="768" y="249" width="553" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1586524307947">
+    <state x="768" y="249" width="553" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1586601156621">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state x="768" y="249" width="553" height="562" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1008@0.27.1920.1008" timestamp="1586524307947" />
+    <state x="768" y="249" width="553" height="562" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1008@0.27.1920.1008" timestamp="1586601156621" />
     <state x="693" y="308" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1586186111726">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
@@ -286,38 +260,38 @@
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
     <state x="738" y="273" width="424" height="513" key="FileChooserDialogImpl/0.27.1920.1008@0.27.1920.1008" timestamp="1586348116069" />
-    <state width="1874" height="375" key="GridCell.Tab.0.bottom" timestamp="1586523185162">
+    <state width="1059" height="377" key="GridCell.Tab.0.bottom" timestamp="1586603110339">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="375" key="GridCell.Tab.0.bottom/0.27.1920.1008@0.27.1920.1008" timestamp="1586523185162" />
-    <state width="1874" height="375" key="GridCell.Tab.0.center" timestamp="1586523185162">
+    <state width="1059" height="377" key="GridCell.Tab.0.bottom/0.27.1920.1008@0.27.1920.1008" timestamp="1586603110339" />
+    <state width="1059" height="377" key="GridCell.Tab.0.center" timestamp="1586603110339">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="375" key="GridCell.Tab.0.center/0.27.1920.1008@0.27.1920.1008" timestamp="1586523185162" />
-    <state width="1874" height="375" key="GridCell.Tab.0.left" timestamp="1586523185162">
+    <state width="1059" height="377" key="GridCell.Tab.0.center/0.27.1920.1008@0.27.1920.1008" timestamp="1586603110339" />
+    <state width="1059" height="377" key="GridCell.Tab.0.left" timestamp="1586603110338">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="375" key="GridCell.Tab.0.left/0.27.1920.1008@0.27.1920.1008" timestamp="1586523185162" />
-    <state width="1874" height="375" key="GridCell.Tab.0.right" timestamp="1586523185162">
+    <state width="1059" height="377" key="GridCell.Tab.0.left/0.27.1920.1008@0.27.1920.1008" timestamp="1586603110338" />
+    <state width="1059" height="377" key="GridCell.Tab.0.right" timestamp="1586603110339">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="375" key="GridCell.Tab.0.right/0.27.1920.1008@0.27.1920.1008" timestamp="1586523185162" />
-    <state width="1874" height="323" key="GridCell.Tab.1.bottom" timestamp="1586364783932">
+    <state width="1059" height="377" key="GridCell.Tab.0.right/0.27.1920.1008@0.27.1920.1008" timestamp="1586603110339" />
+    <state width="1874" height="323" key="GridCell.Tab.1.bottom" timestamp="1586597060430">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="323" key="GridCell.Tab.1.bottom/0.27.1920.1008@0.27.1920.1008" timestamp="1586364783932" />
-    <state width="1874" height="323" key="GridCell.Tab.1.center" timestamp="1586364783931">
+    <state width="1874" height="323" key="GridCell.Tab.1.bottom/0.27.1920.1008@0.27.1920.1008" timestamp="1586597060430" />
+    <state width="1874" height="323" key="GridCell.Tab.1.center" timestamp="1586597060430">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="323" key="GridCell.Tab.1.center/0.27.1920.1008@0.27.1920.1008" timestamp="1586364783931" />
-    <state width="1874" height="323" key="GridCell.Tab.1.left" timestamp="1586364783931">
+    <state width="1874" height="323" key="GridCell.Tab.1.center/0.27.1920.1008@0.27.1920.1008" timestamp="1586597060430" />
+    <state width="1874" height="323" key="GridCell.Tab.1.left" timestamp="1586597060430">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="323" key="GridCell.Tab.1.left/0.27.1920.1008@0.27.1920.1008" timestamp="1586364783931" />
-    <state width="1874" height="323" key="GridCell.Tab.1.right" timestamp="1586364783931">
+    <state width="1874" height="323" key="GridCell.Tab.1.left/0.27.1920.1008@0.27.1920.1008" timestamp="1586597060430" />
+    <state width="1874" height="323" key="GridCell.Tab.1.right" timestamp="1586597060430">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="323" key="GridCell.Tab.1.right/0.27.1920.1008@0.27.1920.1008" timestamp="1586364783931" />
+    <state width="1874" height="323" key="GridCell.Tab.1.right/0.27.1920.1008@0.27.1920.1008" timestamp="1586597060430" />
     <state x="545" y="229" width="819" height="602" key="NewModule_or_Project.wizard" timestamp="1585850656249">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
@@ -334,10 +308,10 @@
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.27.1920.1008@0.27.1920.1008" timestamp="1586257672013" />
-    <state x="374" y="404" width="568" height="501" key="extract.method.dialog" timestamp="1586522635012">
+    <state x="374" y="404" width="568" height="501" key="extract.method.dialog" timestamp="1586537224004">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state x="374" y="404" width="568" height="501" key="extract.method.dialog/0.27.1920.1008@0.27.1920.1008" timestamp="1586522635012" />
+    <state x="374" y="404" width="568" height="501" key="extract.method.dialog/0.27.1920.1008@0.27.1920.1008" timestamp="1586537224004" />
     <state x="308" y="158" width="500" height="743" key="refactoring.ChangeSignatureDialog" timestamp="1586345067634">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
@@ -346,10 +320,10 @@
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
     <state x="624" y="242" key="run.anything.popup/0.27.1920.1008@0.27.1920.1008" timestamp="1586355744127" />
-    <state x="623" y="246" width="672" height="678" key="search.everywhere.popup" timestamp="1586355652823">
+    <state x="623" y="246" width="672" height="678" key="search.everywhere.popup" timestamp="1586600991987">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state x="623" y="246" width="672" height="678" key="search.everywhere.popup/0.27.1920.1008@0.27.1920.1008" timestamp="1586355652823" />
+    <state x="623" y="246" width="672" height="678" key="search.everywhere.popup/0.27.1920.1008@0.27.1920.1008" timestamp="1586600991987" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
