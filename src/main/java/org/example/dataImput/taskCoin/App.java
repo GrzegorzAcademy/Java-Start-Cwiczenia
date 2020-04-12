@@ -8,22 +8,19 @@ public class App {
         Random random = new Random();
         Scanner sc = new Scanner(System.in);
 
-        System.out.println(" Wybierz 1 revers ");
-        System.out.println(" Lub 2 avers ");
+        System.out.println(" Wybierz 1 - revers ");
+        System.out.println(" Lub 2 - avers ");
         int userChoice;
         int flipResult;
         do {
-        userChoice = sc.nextInt();
-        flipResult = random.nextInt(2);
-        if (userChoice == flipResult) {
-            if (userChoice == 1) {
-                System.out.println("wygrywasz");
-            } else {
-                System.out.println("wygrywasz");
+            flipResult = random.nextInt((2-1)+1)+1;
+            userChoice = sc.nextInt();
+                if (userChoice == flipResult) {
+                    System.out.println("wygrywasz");
+                } else {
+                    System.out.println("przegrałeś");
+                }
             }
-        } else {
-            System.out.println("przegrałeś");
+            while (userChoice != flipResult) ;
         }
-    }while (userChoice!=flipResult);
-}
-}
+    }
