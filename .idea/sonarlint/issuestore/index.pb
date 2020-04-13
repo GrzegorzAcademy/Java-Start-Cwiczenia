@@ -59,3 +59,17 @@ f
 6src/main/java/org/example/loops/hospital/Hospital.java,0/8/08f9d579f0a7277feb0ff264f43046d8eeb5d8e7
 i
 9src/main/java/org/example/loops/hospital/HospitalApp.java,f/2/f2bd36da69d9ad49852b634ff897207630016e17
+d
+4src/main/java/org/example/loops/temperature/App.java,8/d/8dba3bd6adb7319aa7c2828c34f9d6a170218934
+u
+Esrc/main/java/org/example/staticVriables/task1Uniwersity/Student.java,1/e/1eb19cc9412462f15cb38112f1e4fcbe0e1a46a8
+x
+Hsrc/main/java/org/example/staticVriables/task1Uniwersity/University.java,7/9/791c29aa92d8939118d01cc9f284c906b8a514d6
+u
+Esrc/main/java/org/example/staticVriables/task_Kitchen/Conversion.java,b/5/b5b94c6deb37a638d27b9acb19667e54d6b16470
+q
+Asrc/main/java/org/example/staticVriables/task_Kitchen/Recipe.java,0/0/00ba27485c971913d1ca31410558eb58564855cd
+e
+5src/main/java/org/example/staticVriables/car/Car.java,9/2/924d1e0bfdc943387279bcbec198ffcaa2948a58
+k
+;src/main/java/org/example/staticVriables/car/CarFabric.java,a/2/a2db7f2ae2fe150ff23b1383399c86efa4d894c7
