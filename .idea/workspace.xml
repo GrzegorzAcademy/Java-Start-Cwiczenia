@@ -20,15 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1cce943-2af3-4a66-a5ec-83359d7b23a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/partsShop/ExhaustPart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/partsShop/Part.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/partsShop/PartsShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/partsShop/Tire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/training/BootCamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/training/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/training/StationaryTraining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/training/Training.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/inheritance/training/TraningOnline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/bulidSuper/orchard/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/bulidSuper/orchard/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/bulidSuper/orchard/FruitInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/comparsion/computerShop/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/comparsion/computerShop/DataStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/comparsion/computerShop/NotebookShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/polymorphism/hospital/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/polymorphism/hospital/Hospital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/polymorphism/hospital/HospitalApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/polymorphism/hospital/Nurse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/polymorphism/hospital/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -74,17 +76,46 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="org.example.bulidSuper.orchard" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="org.example.aggregation" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.School">
-    <configuration name="CarFabric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.staticVriables.car.CarFabric" />
+  <component name="RunManager" selected="Application.NotebookShop">
+    <configuration name="FruitInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.bulidSuper.orchard.FruitInfo" />
       <module name="untitled1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.staticVriables.car.*" />
+          <option name="PATTERN" value="org.example.bulidSuper.orchard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HospitalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.polymorphism.hospital.HospitalApp" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.polymorphism.hospital.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotebookShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.comparsion.computerShop.NotebookShop" />
+      <module name="untitled1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.comparsion.computerShop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,19 +136,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recipe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.staticVriables.task_Kitchen.Recipe" />
-      <module name="untitled1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.staticVriables.task_Kitchen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="School" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.inheritance.training.School" />
       <module name="untitled1" />
@@ -131,33 +149,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="University" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.staticVriables.task1Uniwersity.University" />
-      <module name="untitled1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.staticVriables.task1Uniwersity.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.University" />
-      <item itemvalue="Application.Recipe" />
-      <item itemvalue="Application.CarFabric" />
       <item itemvalue="Application.PartsShop" />
       <item itemvalue="Application.School" />
+      <item itemvalue="Application.FruitInfo" />
+      <item itemvalue="Application.HospitalApp" />
+      <item itemvalue="Application.NotebookShop" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NotebookShop" />
+        <item itemvalue="Application.HospitalApp" />
+        <item itemvalue="Application.FruitInfo" />
         <item itemvalue="Application.School" />
         <item itemvalue="Application.PartsShop" />
-        <item itemvalue="Application.CarFabric" />
-        <item itemvalue="Application.Recipe" />
-        <item itemvalue="Application.University" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +191,9 @@
       <workItem from="1586591368830" duration="12051000" />
       <workItem from="1586673484957" duration="10504000" />
       <workItem from="1586701022264" duration="8859000" />
-      <workItem from="1586784257103" duration="5452000" />
+      <workItem from="1586784257103" duration="5742000" />
+      <workItem from="1586797122605" duration="3228000" />
+      <workItem from="1586847914170" duration="5972000" />
     </task>
     <servers />
   </component>
@@ -216,6 +223,10 @@
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
     <state x="592" y="144" width="726" height="771" key="#PointAplication/0.27.1920.1008@0.27.1920.1008" timestamp="1586347877626" />
+    <state x="218" y="191" width="800" height="677" key="#Templates" timestamp="1586852575508">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state x="218" y="191" width="800" height="677" key="#Templates/0.27.1920.1008@0.27.1920.1008" timestamp="1586852575508" />
     <state x="555" y="191" width="967" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586348181156">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
@@ -224,10 +235,10 @@
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
     <state x="811" y="237" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog/0.27.1920.1008@0.27.1920.1008" timestamp="1586347950248" />
-    <state x="768" y="249" width="553" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1586788527931">
+    <state x="768" y="249" width="553" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1586854253094">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state x="768" y="249" width="553" height="562" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1008@0.27.1920.1008" timestamp="1586788527931" />
+    <state x="768" y="249" width="553" height="562" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1008@0.27.1920.1008" timestamp="1586854253094" />
     <state x="693" y="308" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1586186111726">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
@@ -248,42 +259,46 @@
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
     <state x="138" y="27" width="601" height="1008" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1920.1008@0.27.1920.1008" timestamp="1586787600992" />
+    <state x="437" y="281" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1586848708570">
+      <screen x="0" y="27" width="1920" height="1008" />
+    </state>
+    <state x="437" y="281" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.27.1920.1008@0.27.1920.1008" timestamp="1586848708570" />
     <state x="738" y="273" width="424" height="513" key="FileChooserDialogImpl" timestamp="1586348116069">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
     <state x="738" y="273" width="424" height="513" key="FileChooserDialogImpl/0.27.1920.1008@0.27.1920.1008" timestamp="1586348116069" />
-    <state width="1874" height="381" key="GridCell.Tab.0.bottom" timestamp="1586789423412">
+    <state width="1874" height="381" key="GridCell.Tab.0.bottom" timestamp="1586855749459">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="381" key="GridCell.Tab.0.bottom/0.27.1920.1008@0.27.1920.1008" timestamp="1586789423412" />
-    <state width="1874" height="381" key="GridCell.Tab.0.center" timestamp="1586789423411">
+    <state width="1874" height="381" key="GridCell.Tab.0.bottom/0.27.1920.1008@0.27.1920.1008" timestamp="1586855749459" />
+    <state width="1874" height="381" key="GridCell.Tab.0.center" timestamp="1586855749459">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="381" key="GridCell.Tab.0.center/0.27.1920.1008@0.27.1920.1008" timestamp="1586789423411" />
-    <state width="1874" height="381" key="GridCell.Tab.0.left" timestamp="1586789423411">
+    <state width="1874" height="381" key="GridCell.Tab.0.center/0.27.1920.1008@0.27.1920.1008" timestamp="1586855749459" />
+    <state width="1874" height="381" key="GridCell.Tab.0.left" timestamp="1586855749459">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="381" key="GridCell.Tab.0.left/0.27.1920.1008@0.27.1920.1008" timestamp="1586789423411" />
-    <state width="1874" height="381" key="GridCell.Tab.0.right" timestamp="1586789423411">
+    <state width="1874" height="381" key="GridCell.Tab.0.left/0.27.1920.1008@0.27.1920.1008" timestamp="1586855749459" />
+    <state width="1874" height="381" key="GridCell.Tab.0.right" timestamp="1586855749459">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1874" height="381" key="GridCell.Tab.0.right/0.27.1920.1008@0.27.1920.1008" timestamp="1586789423411" />
-    <state width="1220" height="321" key="GridCell.Tab.1.bottom" timestamp="1586709885269">
+    <state width="1874" height="381" key="GridCell.Tab.0.right/0.27.1920.1008@0.27.1920.1008" timestamp="1586855749459" />
+    <state width="1874" height="322" key="GridCell.Tab.1.bottom" timestamp="1586855018578">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1220" height="321" key="GridCell.Tab.1.bottom/0.27.1920.1008@0.27.1920.1008" timestamp="1586709885269" />
-    <state width="1220" height="321" key="GridCell.Tab.1.center" timestamp="1586709885262">
+    <state width="1874" height="322" key="GridCell.Tab.1.bottom/0.27.1920.1008@0.27.1920.1008" timestamp="1586855018578" />
+    <state width="1874" height="322" key="GridCell.Tab.1.center" timestamp="1586855018578">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1220" height="321" key="GridCell.Tab.1.center/0.27.1920.1008@0.27.1920.1008" timestamp="1586709885262" />
-    <state width="1220" height="321" key="GridCell.Tab.1.left" timestamp="1586709885261">
+    <state width="1874" height="322" key="GridCell.Tab.1.center/0.27.1920.1008@0.27.1920.1008" timestamp="1586855018578" />
+    <state width="1874" height="322" key="GridCell.Tab.1.left" timestamp="1586855018578">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1220" height="321" key="GridCell.Tab.1.left/0.27.1920.1008@0.27.1920.1008" timestamp="1586709885261" />
-    <state width="1220" height="321" key="GridCell.Tab.1.right" timestamp="1586709885268">
+    <state width="1874" height="322" key="GridCell.Tab.1.left/0.27.1920.1008@0.27.1920.1008" timestamp="1586855018578" />
+    <state width="1874" height="322" key="GridCell.Tab.1.right" timestamp="1586855018578">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state width="1220" height="321" key="GridCell.Tab.1.right/0.27.1920.1008@0.27.1920.1008" timestamp="1586709885268" />
+    <state width="1874" height="322" key="GridCell.Tab.1.right/0.27.1920.1008@0.27.1920.1008" timestamp="1586855018578" />
     <state x="545" y="229" width="819" height="602" key="NewModule_or_Project.wizard" timestamp="1585850656249">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
@@ -304,10 +319,10 @@
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
     <state x="374" y="404" width="568" height="501" key="extract.method.dialog/0.27.1920.1008@0.27.1920.1008" timestamp="1586703128005" />
-    <state x="308" y="158" width="500" height="743" key="refactoring.ChangeSignatureDialog" timestamp="1586785467536">
+    <state x="308" y="158" width="500" height="743" key="refactoring.ChangeSignatureDialog" timestamp="1586797202257">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
-    <state x="308" y="158" width="500" height="743" key="refactoring.ChangeSignatureDialog/0.27.1920.1008@0.27.1920.1008" timestamp="1586785467536" />
+    <state x="308" y="158" width="500" height="743" key="refactoring.ChangeSignatureDialog/0.27.1920.1008@0.27.1920.1008" timestamp="1586797202257" />
     <state x="624" y="242" width="672" height="677" key="run.anything.popup" timestamp="1586680856072">
       <screen x="0" y="27" width="1920" height="1008" />
     </state>
