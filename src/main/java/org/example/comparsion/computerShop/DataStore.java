@@ -23,7 +23,7 @@ public class DataStore {
     int checkAvalibity(Computer comp2) {
         int numbersComputersEquals = 0;
         for (int i = 0; i <compNumber ; i++) {
-            if(comp2.equals(computers[i]))
+            if(comp2.equals(computers[i]));
            numbersComputersEquals++;
 
         }return  numbersComputersEquals;
